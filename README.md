@@ -6,3 +6,4 @@ It works by parsing the markdown file and looking for the following patterns:
 `- [x] ` Done  
 `- [ ] ` Undone  
 
+![example screenshot](img/example.png)
